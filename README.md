@@ -10,7 +10,7 @@ This app uses Node.js, Sails.js for backend, MySQL as db and AngularJS for front
 
 2. Go to directory with project
 
-`cd /whiteboard`
+`cd /TestApp`
 
 3. Install dependencies
 
